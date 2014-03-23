@@ -18,7 +18,7 @@ Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://gith
 ### Screenshot
 
 <p align="center">
-  <img src="http://pictures.gabrielecirulli.com/2048-20140309-234100.png" alt="Screenshot"/>
+  <img src="https://github.com/4xes/2048-for-Windows-Phone-8/blob/master/animesgame.gif?raw=true" alt="Screenshot"/>
 </p>
 
 That screenshot is fake, by the way. I never reached 2048 :smile:
