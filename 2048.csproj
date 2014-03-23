@@ -168,9 +168,7 @@
     <Content Include="Images\appbar.next.rest.png" />
     <Content Include="Images\appbar.save.rest.png" />
     <Content Include="Images\appbar.stop.rest.png" />
-    <Content Include="www\.gitignore" />
     <Content Include="www\cordova.js" />
-    <Content Include="www\favicon.ico" />
     <Content Include="www\index.html" />
     <Content Include="www\js\animframe_polyfill.js" />
     <Content Include="www\js\game_manager.js" />
@@ -180,7 +178,6 @@
     <Content Include="www\js\keyboard_input_manager.js" />
     <Content Include="www\js\local_storage_manager.js" />
     <Content Include="www\js\tile.js" />
-    <Content Include="www\LICENSE.txt" />
     <Content Include="www\meta\apple-touch-icon.png" />
     <Content Include="www\style\fonts\clear-sans.css" />
     <Content Include="www\style\fonts\ClearSans-Bold-webfont.svg" />
@@ -203,17 +200,12 @@
     <None Include="cordova\log.bat" />
     <None Include="cordova\run.bat" />
     <None Include="cordova\version.bat" />
-    <None Include="VERSION" />
     <None Include="Properties\AppManifest.xml">
       <SubType>Designer</SubType>
     </None>
     <None Include="Properties\WMAppManifest.xml">
       <SubType>Designer</SubType>
     </None>
-    <None Include="www\.jshintrc" />
-    <None Include="www\CONTRIBUTING.md" />
-    <None Include="www\Rakefile" />
-    <None Include="www\README.md" />
     <None Include="www\style\fonts\ClearSans-Bold-webfont.eot" />
     <None Include="www\style\fonts\ClearSans-Bold-webfont.woff" />
     <None Include="www\style\fonts\ClearSans-Light-webfont.eot" />

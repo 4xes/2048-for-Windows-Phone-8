@@ -53,3 +53,16 @@ C:\Users\apetr_000\Documents\GitHub\2048\obj\Debug\Fork2048.g.resources
 C:\Users\apetr_000\Documents\GitHub\2048\obj\Debug\Fork2048.dll
 C:\Users\apetr_000\Documents\GitHub\2048\obj\Debug\Fork2048.pdb
 C:\Users\apetr_000\Documents\GitHub\2048\obj\Debug\XapCacheFile.xml
+C:\Users\apetr_000\Documents\GitHub\2048-for-Windows-Phone-8\Bin\Debug\ApplicationIcon.png
+C:\Users\apetr_000\Documents\GitHub\2048-for-Windows-Phone-8\Bin\Debug\Fork2048.dll
+C:\Users\apetr_000\Documents\GitHub\2048-for-Windows-Phone-8\Bin\Debug\Fork2048.pdb
+C:\Users\apetr_000\Documents\GitHub\2048-for-Windows-Phone-8\Bin\Debug\AppManifest.xaml
+C:\Users\apetr_000\Documents\GitHub\2048-for-Windows-Phone-8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\apetr_000\Documents\GitHub\2048-for-Windows-Phone-8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\apetr_000\Documents\GitHub\2048-for-Windows-Phone-8\obj\Debug\App.g.cs
+C:\Users\apetr_000\Documents\GitHub\2048-for-Windows-Phone-8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Users\apetr_000\Documents\GitHub\2048-for-Windows-Phone-8\obj\Debug\MainPage.g.cs
+C:\Users\apetr_000\Documents\GitHub\2048-for-Windows-Phone-8\obj\Debug\Fork2048.g.resources
+C:\Users\apetr_000\Documents\GitHub\2048-for-Windows-Phone-8\obj\Debug\Fork2048.dll
+C:\Users\apetr_000\Documents\GitHub\2048-for-Windows-Phone-8\obj\Debug\Fork2048.pdb
+C:\Users\apetr_000\Documents\GitHub\2048-for-Windows-Phone-8\obj\Debug\XapCacheFile.xml
